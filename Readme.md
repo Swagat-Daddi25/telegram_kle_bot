@@ -9,4 +9,4 @@ Its a telegram bot which gives generic replies
 
 ## SCREENSHOT
 
-![ Telegram Bot Screenshot] {C:\Users\daddi\OneDrive\Desktop\Telegram\assets\Screenshot 2026-01-03 122552.png}
+![ Telegram Bot Screenshot] (assets\Screenshot 2026-01-03 122552.png)
